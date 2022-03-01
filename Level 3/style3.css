@@ -1,0 +1,23 @@
+em {
+    color: rgb(200, 196, 250);
+}
+
+strong {
+    font-weight: bold;
+}
+
+p {
+    margin: 5px;
+}
+
+h1 {
+    font-size: 55px; 
+    color: rgb(3, 3, 3);
+    margin: 10px;
+}
+
+h2 {
+    font-size: 36px;
+    color: rgb(3, 3, 3);
+    margin: 8px;
+}
