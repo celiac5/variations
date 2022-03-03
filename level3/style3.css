@@ -5,27 +5,29 @@ div {
 h1 {
      
     color: rgb(255, 183, 237);
-    margin: 30px;
+    padding-left: 50%;
 }
 
-h2 {
+h3 {
     color: rgb(114, 114, 114);
-    margin: 10px;
+    padding-left: 50px;
+    padding-top: 25px;
 }
 
 .firstpara1 {
-    display: inline-block;
+    border: 5px dashed;
+    border-color: rgb(183, 255, 225);
 
 }
 
 .secondpara1 {
     position: relative;
-    top: 25px;
+    top: 20px;
     left: 70%;
 }
 
 .thirdpara1 {
     position: absolute;
-    top: 300px;
-    left: 100px;
+    top: 500px;
+    left: 300px;
 }
