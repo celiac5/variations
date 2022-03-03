@@ -5,7 +5,7 @@ div {
 h1 {
      
     color: rgb(255, 183, 237);
-    padding-left: 50%;
+    padding-left: 400%;
 }
 
 h3 {
@@ -15,6 +15,7 @@ h3 {
 }
 
 .firstpara1 {
+    padding: 20px;
     border: 5px dashed;
     border-color: rgb(183, 255, 225);
 
@@ -23,7 +24,7 @@ h3 {
 .secondpara1 {
     position: relative;
     top: 20px;
-    left: 70%;
+    left: 60%;
 }
 
 .thirdpara1 {
