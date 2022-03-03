@@ -15,8 +15,9 @@ h3 {
 }
 
 .firstpara1 {
-    padding: 50px;
-    border: 8px dashed;
+    padding: 20px;
+    width: fit-content;
+    border: 5px dashed;
     border-color: rgb(183, 255, 225);
 
 }
