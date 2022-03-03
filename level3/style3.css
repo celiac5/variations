@@ -13,18 +13,18 @@ h2 {
     margin: 10px;
 }
 
-.firstpara1{
+.firstpara1 {
     display: inline-block;
 
 }
 
-.secondpara1{
+.secondpara1 {
     position: relative;
     top: 25px;
     left: 70%;
 }
 
-.thirdpara1{
+.thirdpara1 {
     position: absolute;
     top: 300px;
     left: 100px;
