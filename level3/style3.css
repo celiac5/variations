@@ -22,8 +22,9 @@ h3 {
 }
 
 .secondpara1 {
+    padding: 40px;
     position: absolute;
-    top: 20px;
+    top: 200px;
     right: 100px;
     width: min-content;
     border: 10px double;
@@ -31,6 +32,7 @@ h3 {
 }
 
 .thirdpara1 {
+    padding: 10px;
     position: relative;
     top: 80%;
     left: 35%;
