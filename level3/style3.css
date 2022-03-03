@@ -22,18 +22,18 @@ h3 {
 }
 
 .secondpara1 {
-    position: relative;
-    top: 20%;
-    left: 60%;
+    position: absolute;
+    top: 20px;
+    right: 100px;
     width: min-content;
-    border: 7px double;
+    border: 10px double;
     border-color: rgb(188, 198, 255);
 }
 
 .thirdpara1 {
-    position: absolute;
-    top: 500px;
-    left: 400px;
+    position: relative;
+    top: 80%;
+    left: 35%;
     width: max-content;
     border: 3px dotted;
     border-color: rgb(226, 201, 255);
