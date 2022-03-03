@@ -36,7 +36,7 @@ h3 {
     position: relative;
     top: 100px;
     left: 90px;
-    width: max-content;
+    width: fit-content;
     border: 3px dotted;
     border-color: rgb(226, 201, 255);
 }
