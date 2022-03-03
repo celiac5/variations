@@ -23,10 +23,10 @@ h3 {
 
 .secondpara1 {
     position: relative;
-    top: 20px;
+    top: 20%;
     left: 60%;
     width: min-content;
-    border: 3px double;
+    border: 7px double;
     border-color: rgb(188, 198, 255);
 }
 
@@ -34,7 +34,7 @@ h3 {
     position: absolute;
     top: 500px;
     left: 400px;
-    width: fit-content;
-    border: 7px dotted;
+    width: max-content;
+    border: 3px dotted;
     border-color: rgb(226, 201, 255);
 }
