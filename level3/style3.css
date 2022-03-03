@@ -2,10 +2,9 @@ div {
     margin: 15px;
 }
 
-h1 {
-     
+h1 { 
     color: rgb(255, 183, 237);
-    padding-left: 30%;
+    padding-left: 40%;
 }
 
 h3 {
@@ -26,10 +25,16 @@ h3 {
     position: relative;
     top: 20px;
     left: 60%;
+    width: min-content;
+    border: 3px double;
+    border-color: rgb(188, 198, 255);
 }
 
 .thirdpara1 {
     position: absolute;
     top: 500px;
     left: 400px;
+    width: fit-content;
+    border: 7px dotted;
+    border-color: rgb(226, 201, 255);
 }
