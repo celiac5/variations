@@ -24,7 +24,7 @@ h3 {
 .secondpara1 {
     padding: 40px;
     position: absolute;
-    top: 200px;
+    top: 150px;
     right: 100px;
     width: min-content;
     border: 10px double;
@@ -34,8 +34,8 @@ h3 {
 .thirdpara1 {
     padding: 10px;
     position: relative;
-    top: 90%;
-    left: 35%;
+    top: 90px;
+    left: 30px;
     width: max-content;
     border: 3px dotted;
     border-color: rgb(226, 201, 255);
