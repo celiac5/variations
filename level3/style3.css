@@ -22,9 +22,9 @@ h3 {
 }
 
 .secondpara1 {
-    padding: 40px;
+    padding: 35px;
     position: absolute;
-    top: 150px;
+    top: 85px;
     right: 100px;
     width: min-content;
     border: 10px double;
@@ -32,11 +32,16 @@ h3 {
 }
 
 .thirdpara1 {
-    padding: 10px;
+    padding: 15px 60px;
     position: relative;
     top: 100px;
-    left: 300px;
+    left: 400px;
     width: fit-content;
     border: 8px dotted;
     border-color: rgb(226, 201, 255);
+}
+
+.love{
+    color: rgb(255, 83, 83);
+    display: inline;
 }
