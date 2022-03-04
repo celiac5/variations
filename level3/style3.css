@@ -2,15 +2,19 @@ div {
     margin: 15px;
 }
 
-h1 { 
-    color: rgb(255, 183, 237);
-    padding-left: 40%;
-}
-
 h3 {
     color: rgb(114, 114, 114);
     padding-left: 50px;
     padding-top: 25px;
+}
+
+.header1 {
+    color: rgb(255, 201, 241);
+    padding-left: 40%;
+}
+
+.subheading {
+    color: rgb(114, 114, 114)
 }
 
 .firstpara1 {
@@ -18,7 +22,6 @@ h3 {
     width: fit-content;
     border: 5px dashed;
     border-color: rgb(201, 255, 233);
-
 }
 
 .secondpara1 {
@@ -27,8 +30,7 @@ h3 {
     top: 85px;
     right: 100px;
     width: min-content;
-    border: 10px double;
-    border-color: rgb(188, 198, 255);
+    border: 10px double rgb(188, 198, 255);
 }
 
 .thirdpara1 {
@@ -37,11 +39,211 @@ h3 {
     top: 100px;
     left: 400px;
     width: fit-content;
-    border: 8px dotted;
-    border-color: rgb(226, 201, 255);
+    border: 8px dotted rgb(226, 201, 255);
 }
 
 .love{
     color: rgb(255, 83, 83);
     display: inline;
+}
+
+.firstpara2 {
+    float: left;
+    border: 5px dotted rgb(255, 83, 83);
+    color: rgb(64, 125, 255);
+    padding: 10px;
+    display: fit-content;
+    margin: 10px;
+}
+    
+.combinedpara2 {
+    position: relative;
+    top: 30px;
+    left: 20px;
+}
+
+.thirdpara2 {
+    position: absolute;
+    top: 450px;
+    right: 200px;
+    border: 3px dashed rgb(64, 125, 255);
+    padding: 20px;
+    color: rgb(255, 65, 144);
+}
+    
+.header2 {
+    color: rgba(101, 137, 255, 0.349);
+    position: absolute;
+    top: 25px;
+    right: 100px;
+}
+
+.subheading2 {
+    height: 100px;
+}
+
+.heart {
+    color: rgb(255, 44, 44);
+    display: inline;
+}
+
+.brokenheart {
+    color: rgb(255, 210, 210);
+    display: inline;
+}
+
+.secondpara3 {
+    color: rgb(184, 184, 184);
+    position: absolute;
+    top: 260px;
+    left: 320px;
+}
+
+.thirdpara3 {
+    position: absolute;
+    bottom: 2px;
+    right: 0px;
+}
+
+
+.header3-1 {
+    color: rgb(200, 30, 30);
+    display: inline;
+}
+.header3-2 {
+    color: rgb(255, 70, 70);
+    display: inline;
+}
+.header3-3 {
+    color: rgb(255, 100, 100);
+    display: inline;
+}
+.header3-4 {
+    color: rgb(255, 120, 120);
+    display: inline;
+}
+.header3-5 {
+    color: rgb(255, 150, 150);
+    display: inline;
+}
+.header3-6 {
+    color: rgb(255, 180, 180);
+    display: inline;
+}
+.header3-7 {
+    color: rgb(255, 210, 210);
+    display: inline;
+}
+.header3-8 {
+    color: rgb(255, 240, 240);
+    display: inline;
+}
+.header3-9 {
+    color: rgb(255, 250, 250);
+    display: inline;
+}
+
+.subheading3 {
+    color: rgb(78, 77, 83);
+}
+
+.hour {
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.love1 {
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.face1 {
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.complete {
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.deadly {
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.away {
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.looked{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.life{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.blood1{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.eyesight{
+    color: rgb(255, 195, 230);
+    display: inline;
+}
+.trees{
+    color: rgb(255, 195, 230);
+    display: inline;
+}
+.midnight{
+    color: rgb(255, 195, 230);
+    display: inline;
+}
+.single{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.start{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.chords{
+    color: rgb(255, 154, 214);
+    display: inline;
+}
+.blood2{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.winter{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.love2{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.silent{
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.love3{
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.sweet{
+    color: rgb(255, 61, 127);
+    display: inline;
+}
+.before{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.dwelling{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+.nomore{
+    color: rgb(255, 113, 171);
+    display: inline;
+}
+
+.header4 {
+    color: rgb(255, 154, 214);
 }
