@@ -154,25 +154,31 @@
 }
 
 .firstpara2 {
-    letter-spacing: 30px;
-    line-height: 2.5;
+    letter-spacing: 25px;
+    line-height: 1;
     text-transform: uppercase;
     text-align: center;
     font-family: "Amiri";
     font-weight: 700;
     font-size: 15px;
-    color: rgb(96, 69, 250);
+    color: rgba(184, 140, 255, 0.37);
+    position: absolute;
+    top: 150px;
+    left: 80px;
 }
 
 .secondpara2 {
     letter-spacing: 15px;
-    line-height: 1.5;
+    line-height: 0.5;
     text-transform: capitalize;
     text-align: center;
     font-family: "Amiri";
     font-weight: 400;
     font-size: 17px;
-    color: rgb(152, 134, 255);
+    color: rgba(184, 140, 255, 0.37);
+    position: absolute;
+    top: 300px;
+    left: 270px;
 }
 
 .thirdpara2 {
@@ -184,6 +190,9 @@
     font-weight: 400;
     font-size: 20px;
     color: rgba(184, 140, 255, 0.37);
+    position: absolute;
+    top: 400px;
+    left: 540px;
 }
 
 .header2 {
@@ -192,13 +201,15 @@
     font-family: "Syne Mono";
     color: rgb(252, 103, 103);
     font-weight: 700;
+    font-size: 15px;
     text-align: right;
+    border: 2px dashed rgb(252, 103, 103);
 }
 
 .subheading2 {
     text-transform: uppercase;
     position: absolute;
-    top: 800px;
+    top: 600px;
     right: 20px;
     font-family: "Syne Mono";
     font-size: 10px;
