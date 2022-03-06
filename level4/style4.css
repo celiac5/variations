@@ -370,15 +370,12 @@
     color: rgb(116, 140, 221);
 }
 
-/*.body1 {
-    background-image: url("image1.jpeg");
-}*/
-
-.paras {
+.paras4 {
     letter-spacing: 0;
     line-height: 0.5;
     font-size: xx-large;
     text-transform: capitalize;
+    color: rgb(126, 126, 126);
 }
 .l1 {
     position: absolute;
@@ -589,10 +586,321 @@
     font-size: larger;
     letter-spacing: 50px;
     text-transform: uppercase;
+    color: rgb(116, 140, 221);
+    position: absolute;
+    top: 5px;
+    left: 20px;
 }
 .subheading4 {
-    text-align: end;
+    text-align: right;
+    position: absolute;
+    top: 40px;
+    right: 5px;
     text-transform: uppercase;
     font-size: x-small;
+    color: rgb(145, 161, 214);
+}
 
+.header5 {
+    font-size: larger;
+    letter-spacing: 50px;
+    text-transform: uppercase;
+    color: rgb(255, 146, 146);
+    /*font-family: "Montserrat";
+    font-weight: 700;*/
+    position: absolute;
+    top: 5px;
+    left: 20px;
+}
+.subheading5 {
+    text-align: right;
+    /*font-family: "Montserrat";
+    font-weight: 300;*/
+    position: absolute;
+    top: 40px;
+    right: 5px;
+    text-transform: uppercase;
+    font-size: x-small;
+    color: rgb(255, 189, 189);
+}
+.paras5 {
+    letter-spacing: 0;
+    line-height: 0.5;
+    font-size: xx-large;
+    text-transform: capitalize;
+    color: rgb(126, 126, 126);
+    /*font-family: "Montserrat";
+    font-weight: 300;*/
+}
+.ll1 {
+    position: absolute;
+    top: 115px;
+    left: 390px;
+}
+.ll2 {
+    position: absolute;
+    top: 135px;
+    left: 349px;
+}
+.ll3 {
+    position: absolute;
+    top: 155px;
+    left: 329px;
+}
+.ll4-1 {
+    position: absolute;
+    top: 175px;
+    left: 320px;
+}
+.ll4-2 {
+    position: absolute;
+    top: 175px;
+    left: 505px;
+}
+.ll5-1 {
+    position: absolute;
+    top: 195px;
+    left: 306px;
+}
+.ll5-2 {
+    position: absolute;
+    top: 195px;
+    left: 505px;
+}
+.ll6 {
+    position: absolute;
+    top: 215px;
+    left: 295px;
+}
+.ll7 {
+    position: absolute;
+    top: 235px;
+    left: 150px;
+}
+.ll8 {
+    position: absolute;
+    top: 255px;
+    left: 110px;
+}
+.ll9 {
+    position: absolute;
+    top: 275px;
+    left: 100px;
+}
+.ll10 {
+    position: absolute;
+    top: 295px;
+    left: 85px;
+}
+.ll11 {
+    position: absolute;
+    top: 315px;
+    left: 65px;
+}
+.ll12 {
+    position: absolute;
+    top: 335px;
+    left: 55px;
+}
+.ll13 {
+    position: absolute;
+    top: 355px;
+    left: 55px;
+}
+.ll14 {
+    position: absolute;
+    top: 375px;
+    left: 55px;
+}
+.ll15 {
+    position: absolute;
+    top: 395px;
+    left: 55px;
+}
+.ll16 {
+    position: absolute;
+    top: 415px;
+    left: 60px;
+}
+.ll17 {
+    position: absolute;
+    top: 435px;
+    left: 68px;
+}
+.ll18 {
+    position: absolute;
+    top: 455px;
+    left: 80px;
+}
+.ll19 {
+    position: absolute;
+    top: 475px;
+    left: 100px;
+}
+.ll20-1 {
+    position: absolute;
+    top: 495px;
+    left: 125px;
+}
+.ll20-2 {
+    position: absolute;
+    top: 495px;
+    left: 470px;
+}
+.ll21-1 {
+    position: absolute;
+    top: 515px;
+    left: 125px;
+}
+.ll21-2 {
+    position: absolute;
+    top: 515px;
+    left: 475px;
+}
+.ll22-1 {
+    position: absolute;
+    top: 535px;
+    left: 120px;
+}
+.ll22-2 {
+    position: absolute;
+    top: 535px;
+    left: 385px;
+}
+.ll23-1 {
+    position: absolute;
+    top: 555px;
+    left: 100px;
+}
+.ll23-2 {
+    position: absolute;
+    top: 555px;
+    left: 390px;
+}
+.ll24 {
+    position: absolute;
+    top: 575px;
+    left: 80px;
+}
+.ll25 {
+    position: absolute;
+    top: 595px;
+    left: 70px;
+}
+.ll26 {
+    position: absolute;
+    top: 615px;
+    left: 63px;
+}
+.ll27 {
+    position: absolute;
+    top: 635px;
+    left: 61px;
+}
+.ll28 {
+    position: absolute;
+    top: 655px;
+    left: 55px;
+}
+.ll29 {
+    position: absolute;
+    top: 675px;
+    left: 59px;
+}
+.ll30 {
+    position: absolute;
+    top: 695px;
+    left: 63px;
+}
+.ll31 {
+    position: absolute;
+    top: 715px;
+    left: 72px;
+}
+.ll32 {
+    position: absolute;
+    top: 735px;
+    left: 80px;
+}
+.ll33 {
+    position: absolute;
+    top: 755px;
+    left: 90px;
+}
+.ll34 {
+    position: absolute;
+    top: 775px;
+    left: 105px;
+}
+.ll35 {
+    position: absolute;
+    top: 795px;
+    left: 120px;
+}
+.ll36 {
+    position: absolute;
+    top: 815px;
+    left: 130px;
+}
+.ll37 {
+    position: absolute;
+    top: 835px;
+    left: 140px;
+}
+.ll38 {
+    position: absolute;
+    top: 855px;
+    left: 155px;
+}
+.ll39 {
+    position: absolute;
+    top: 875px;
+    left: 160px;
+}
+.ll40 {
+    position: absolute;
+    top: 895px;
+    left: 165px;
+}
+.ll41 {
+    position: absolute;
+    top: 915px;
+    left: 175px;
+}
+.lovee1 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 180px;
+    left: 380px;
+}
+.lovee2 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 500px;
+    left: 295px;
+}
+.lovee3 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 540px;
+    left: 260px;
+}
+.lovee4 {
+    display: inline;
+    font-size: 60px;
+}
+.lovee5 {
+    display: inline;
+    font-size: 60px;
+}
+.lovee6 {
+    display: inline;
+    font-size: 60px;
+}
+.lovee7 {
+    display: inline;
+    font-size: 60px;
 }
