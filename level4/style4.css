@@ -215,3 +215,267 @@
     font-size: 10px;
     color: rgb(180, 219, 255);
 }
+
+.s1 {
+    letter-spacing: 0px;
+    font-size: 20px;
+    font-family: "Cutive Mono";
+}
+.s2 {
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: "PT Mono";
+}
+.s3 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s4 {
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.s5 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s6 {
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: "PT Mono";
+}
+.s7 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s8 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s9 {
+    letter-spacing: 0px;
+    font-size: 20px;
+    font-family: "Cutive Mono";
+}
+.s10 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s11 {
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.s12 {
+    letter-spacing: 0px;
+    font-size: 20px;
+    font-family: "Cutive Mono";
+}
+.s13 {
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: "PT Mono";
+}
+.s14 {
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s15{
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.s16 {
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.s17 {
+    letter-spacing: 0px;
+    font-size: 20px;
+    font-family: "Cutive Mono";
+}
+.s18 {
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+.s19 {
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: "PT Mono";
+}
+.s20{
+    letter-spacing: 0px;
+    font-size: 17px;
+    font-family: "PT Mono";
+}
+.s21{
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s22{
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s23{
+    letter-spacing: 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.s24{
+    letter-spacing: 15px;
+    font-size: 17px;
+    text-transform: lowercase;
+}
+
+.firstpara3 {
+    line-height: 1.2;
+    text-align: center;
+    color: rgb(255, 146, 146);
+}
+
+.secondpara3 {
+    line-height: 0.75;
+    text-align: center;
+    color: rgba(255, 146, 146, 0.767);
+}
+
+.thirdpara3 {
+    line-height: 0.5;
+    text-align: center;
+    color: rgba(255, 146, 146, 0.534);
+}
+.header3 {
+    letter-spacing: 80px;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 20px;
+    font-family: fantasy;
+    color: rgb(64, 102, 226);
+}
+.subheading3 {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-family: cursive;
+    color: rgb(116, 140, 221);
+}
+
+.body1 {
+    background-image: url("image1.jpeg");
+}
+
+.paras {
+    letter-spacing: 0;
+    line-height: 0.5;
+    font-size: xx-large;
+}
+.l1 {
+    position: absolute;
+    top: 115px;
+    left: 390px;
+}
+.l2 {
+    position: absolute;
+    top: 135px;
+    left: 349px;
+}
+.l3 {
+    position: absolute;
+    top: 155px;
+    left: 329px;
+}
+.l4 {
+    position: absolute;
+    top: 175px;
+    left: 320px;
+}
+.l5 {
+    position: absolute;
+    top: 195px;
+    left: 306px;
+}
+.l6 {
+    position: absolute;
+    top: 215px;
+    left: 295px;
+}
+.l7 {
+    position: absolute;
+    top: 235px;
+    left: 150px;
+}
+.l8 {
+    position: absolute;
+    top: 255px;
+    left: 110px;
+}
+.l9 {
+    position: absolute;
+    top: 275px;
+    left: 100px;
+}
+.l10 {
+    position: absolute;
+    top: 295px;
+    left: 85px;
+}
+.l11 {
+    position: absolute;
+    top: 315px;
+    left: 65px;
+}
+.l12 {
+    position: absolute;
+    top: 335px;
+    left: 55px;
+}
+.l13 {
+    position: absolute;
+    top: 355px;
+    left: 55px;
+}
+.l14 {
+    position: absolute;
+    top: 375px;
+    left: 55px;
+}
+.l15 {
+    position: absolute;
+    top: 395px;
+    left: 55px;
+}
+.l16 {
+    position: absolute;
+    top: 415px;
+    left: 60px;
+}
+.l17 {
+    position: absolute;
+    top: 435px;
+    left: 70px;
+}
+.l18 {
+    position: absolute;
+    top: 455px;
+    left: 80px;
+}
+.l19 {
+    position: absolute;
+    top: 475px;
+    left: 100px;
+}
+.l20 {
+    position: absolute;
+    top: 495px;
+    left: 125px;
+}
