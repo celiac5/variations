@@ -367,7 +367,7 @@
     animation: lovee1 0.5s alternate infinite ;
 }
 body {
-    background-color: rgba(253, 233, 176, 0.432);
+    background-color: rgba(190, 191, 253, 0.623);
 }
 .header2 {
     color: rgb(255, 201, 241);
@@ -436,4 +436,903 @@ body {
     color: rgb(255, 146, 146);;
     display: inline;
     padding-left: 10px;
+}
+
+.header3 {
+    color: rgb(255, 118, 118);
+    border: 8px double rgb(255, 118, 118);
+    width: fit-content;
+    height: 50px;
+    padding: 5px 10px;
+}
+
+.subheading3 {
+    position: absolute;
+    top: 720px;
+    left: 1300px; 
+    color: rgb(184, 184, 184);
+}
+
+.s1 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: rgb(255, 61, 127);
+    animation: s1 5s alternate infinite;
+}
+
+@keyframes s1 {
+    from {top: 120px; left: 100px;}
+    to {top: 120px; left: 1150px}
+}
+
+.s2 {
+    display: inline;
+    position: absolute;
+    top: 145px;
+    left: 100px;  
+    color: rgb(255, 113, 171);
+    animation: s2 5s alternate 0.5s infinite;
+}
+
+@keyframes s2 {
+    from {top: 145px; left: 100px;}
+    to {top: 145px; left: 1150px}
+}
+
+.s3 {
+    display: inline;
+    position: absolute;
+    top: 170px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    animation: s3 5s alternate 1s infinite;
+}
+
+@keyframes s3 {
+    from {top: 170px; left: 100px;}
+    to {top: 170px; left: 1150px}
+}
+
+.s4 {
+    display: inline;
+    position: absolute;
+    top: 195px;
+    left: 100px;  
+    color: rgb(255, 195, 230);
+    animation: s4 5s alternate 1.5s infinite;
+}
+
+@keyframes s4 {
+    from {top: 195px; left: 100px;}
+    to {top: 195px; left: 1150px}
+}
+
+.s5 {
+    display: inline;
+    position: absolute;
+    top: 220px;
+    left: 100px;  
+    color: rgb(255, 223, 242);
+    animation: s5 5s alternate 2s infinite;
+}
+
+@keyframes s5 {
+    from {top: 220px; left: 100px;}
+    to {top: 220px; left: 1150px}
+}
+
+.s6 {
+    display: inline;
+    position: absolute;
+    top: 245px;
+    left: 100px;  
+    color: rgb(255, 240, 249);
+    animation: s6 5s alternate 2.5s infinite;
+}
+
+@keyframes s6 {
+    from {top: 245px; left: 100px;}
+    to {top: 245px; left: 1150px}
+}
+
+.s7 {
+    display: inline;
+    position: absolute;
+    top: 270px;
+    left: 100px; 
+    color: rgb(255, 223, 242); 
+    animation: s7 5s alternate 3s infinite;
+}
+
+@keyframes s7 {
+    from {top: 270px; left: 100px;}
+    to {top: 270px; left: 1150px}
+}
+
+.s8 {
+    display: inline;
+    position: absolute;
+    top: 295px;
+    left: 100px;  
+    color: rgb(255, 195, 230);
+    animation: s8 5s alternate 3.5s infinite;
+}
+
+@keyframes s8 {
+    from {top: 295px; left: 100px;}
+    to {top: 295px; left: 1150px}
+}
+
+.s9 {
+    display: inline;
+    position: absolute;
+    top: 320px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    animation: s9 5s alternate 4s infinite;
+}
+
+@keyframes s9 {
+    from {top: 320px; left: 100px;}
+    to {top: 320px; left: 1150px}
+}
+
+.s10 {
+    display: inline;
+    position: absolute;
+    top: 345px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    animation: s10 5s alternate 4.5s infinite;
+}
+
+@keyframes s10 {
+    from {top: 345px; left: 100px;}
+    to {top: 345px; left: 1150px}
+}
+
+.s11 {
+    display: inline;
+    position: absolute;
+    top: 370px;
+    left: 100px; 
+    color: rgb(255, 61, 127);
+    animation: s11 5s alternate 5s infinite;
+}
+
+@keyframes s11 {
+    from {top: 370px; left: 100px;}
+    to {top: 370px; left: 1150px}
+}
+
+.s12 {
+    display: inline;
+    position: absolute;
+    top: 395px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    animation: s12 5s alternate 5.5s infinite;
+}
+
+@keyframes s12 {
+    from {top: 395px; left: 100px;}
+    to {top: 395px; left: 1150px}
+}
+
+.s13 {
+    display: inline;
+    position: absolute;
+    top: 420px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    animation: s13 5s alternate 6s infinite;
+}
+
+@keyframes s13 {
+    from {top: 420px; left: 100px;}
+    to {top: 420px; left: 1150px}
+}
+
+.s14 {
+    display: inline;
+    position: absolute;
+    top: 445px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    animation: s14 5s alternate 6.5s infinite;
+}
+
+@keyframes s14 {
+    from {top: 445px; left: 100px;}
+    to {top: 445px; left: 1150px}
+}
+
+.s15{
+    display: inline;
+    position: absolute;
+    top: 470px;
+    left: 100px; 
+    color: rgb(255, 223, 242);
+    animation: s15 5s alternate 7s infinite;
+}
+
+@keyframes s15 {
+    from {top: 470px; left: 100px;}
+    to {top: 470px; left: 1150px}
+}
+
+.s16 {
+    display: inline;
+    position: absolute;
+    top: 495px;
+    left: 100px; 
+    color: rgb(255, 240, 249);
+    animation: s16 5s alternate 7.5s infinite;
+}
+
+@keyframes s16 {
+    from {top: 495px; left: 100px;}
+    to {top: 495px; left: 1150px}
+}
+
+.s17 {
+    display: inline;
+    position: absolute;
+    top: 520px;
+    left: 100px; 
+    color: rgb(255, 223, 242);
+    animation: s17 5s alternate 8s infinite;
+}
+
+@keyframes s17 {
+    from {top: 520px; left: 100px;}
+    to {top: 520px; left: 1150px}
+}
+
+.s18 {
+    display: inline;
+    position: absolute;
+    top: 545px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    animation: s18 5s alternate 8.5s infinite;
+}
+
+@keyframes s18 {
+    from {top: 545px; left: 100px;}
+    to {top: 545px; left: 1150px}
+}
+
+.s19 {
+    display: inline;
+    position: absolute;
+    top: 570px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    animation: s19 5s alternate 9s infinite;
+}
+
+@keyframes s19 {
+    from {top: 570px; left: 100px;}
+    to {top: 570px; left: 1150px}
+}
+
+.s20{
+    display: inline;
+    position: absolute;
+    top: 595px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    animation: s20 5s alternate 9.5s infinite;
+}
+
+@keyframes s20 {
+    from {top: 595px; left: 100px;}
+    to {top: 595px; left: 1150px}
+}
+
+.s21{
+    display: inline;
+    position: absolute;
+    top: 620px;
+    left: 100px; 
+    color: rgb(255, 61, 127);
+    animation: s21 5s alternate 10s infinite;
+}
+
+@keyframes s21 {
+    from {top: 620px; left: 100px;}
+    to {top: 620px; left: 1150px}
+}
+
+.s22{
+    display: inline;
+    position: absolute;
+    top: 645px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    animation: s22 5s alternate 10.5s infinite;
+}
+
+@keyframes s22 {
+    from {top: 645px; left: 100px;}
+    to {top: 645px; left: 1150px}
+}
+
+.s23{
+    display: inline;
+    position: absolute;
+    top: 670px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    animation: s23 5s alternate 11s infinite;
+}
+
+@keyframes s23 {
+    from {top:670px; left: 100px;}
+    to {top: 670px; left: 1150px}
+}
+
+.s24{
+    display: inline;
+    position: absolute;
+    top: 695px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    animation: s24 5s alternate 11.5s infinite;
+}
+
+@keyframes s24 {
+    from {top: 695px; left: 100px;}
+    to {top: 695px; left: 1150px}
+}
+
+.header4 {
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    letter-spacing: 10px;
+    color: rgb(255, 146, 146);
+    font-family: "Lobster Two";
+    font-weight: 700;
+    font-size: large;
+    font-style: italic;
+}
+.subheading4 {
+    position: absolute;
+    top: 35px;
+    left: 1300px;
+    color: rgb(126, 126, 126);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    font-style: italic;
+}
+.ss1 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;
+    color: rgb(255, 61, 127);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards infinite;
+}
+
+@keyframes ss1 {
+    0% {top: 120px; left: 100px;}
+    25% {top: 120px; left: 1100px;}
+    50% {top: 650px; left: 1100px;}
+    75% {top: 650px; left: 100px;}
+    100% {top: 120px; left: 100px;}
+}
+
+.ss2 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;  
+    color: rgb(255, 113, 171);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 0.5s infinite;
+}
+.ss3 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 1s infinite;
+}
+.ss4 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;  
+    color: rgb(255, 195, 230);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 1.5s infinite;
+}
+.ss5 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;  
+    color: rgb(255, 223, 242);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 2s infinite;
+}
+.ss6 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;  
+    color: rgb(255, 240, 249);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 2.5s infinite;
+}
+.ss7 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 223, 242); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 3s infinite;
+}
+.ss8 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px;  
+    color: rgb(255, 195, 230);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 3.5s infinite;
+}
+.ss9 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 4s infinite;
+}
+.ss10 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 4.5s infinite;
+}
+.ss11 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 61, 127);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 5s infinite;
+}
+.ss12 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 5.5s infinite;
+}
+.ss13 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 6s infinite;
+}
+.ss14 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 6.5s infinite;
+}
+.ss15{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 223, 242);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 7s infinite;
+}
+.ss16 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 240, 249);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 7.5s infinite;
+}
+.ss17 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 223, 242);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 8s infinite;
+}
+.ss18 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 8.5s infinite;
+}
+.ss19 {
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 9s infinite;
+}
+.ss20{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 9.5s infinite;
+}
+.ss21{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 61, 127);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 10s infinite;
+}
+.ss22{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 113, 171);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 10.5s infinite;
+}
+.ss23{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 154, 214); 
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 11s infinite;
+}
+.ss24{
+    display: inline;
+    position: absolute;
+    top: 120px;
+    left: 100px; 
+    color: rgb(255, 195, 230);
+    font-family: "Lobster Two";
+    font-weight: 400;
+    animation: ss1 10s forwards 11.5s infinite;
+}
+
+.hour {
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: x-large;
+    animation: t1 1s alternate infinite;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+}
+
+@keyframes t1 {
+    from {color: rgb(255, 61, 127);}
+    to {color: rgba(190, 191, 253, 0);}
+}
+
+.love1 {
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: xx-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t1 0.1s alternate infinite;
+}
+.face1 {
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t1 0.5s alternate 0.5s infinite;
+}
+@keyframes t2 {
+    from {color: rgb(255, 113, 171);}
+    to {color: rgba(190, 191, 253, 0);}
+}
+.complete {
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 0.75s infinite;
+}
+.deadly {
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 1s infinite;
+}
+.away {
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 1.25s infinite;
+}
+
+@keyframes t3 {
+    from {color: rgb(255, 154, 214);}
+    to {color: rgba(190, 191, 253, 0);}
+}
+
+.looked{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 1.5s infinite;
+}
+.life{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 1.75s infinite;
+}
+.blood1{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 2s infinite;
+}
+
+@keyframes t4 {
+    from {color: rgb(255, 195, 230);}
+    to {color: rgba(190, 191, 253, 0);}
+}
+
+.eyesight{
+    color: rgb(255, 195, 230);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t4 0.5s alternate 2.25s infinite;
+}
+.trees{
+    color: rgb(255, 195, 230);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t4 0.5s alternate 2.5s infinite;
+}
+.midnight{
+    color: rgb(255, 195, 230);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t4 0.5s alternate 2.75s infinite;
+}
+.single{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 3s infinite;
+}
+.start{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 3.25s infinite;
+}
+.chords{
+    color: rgb(255, 154, 214);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t3 0.5s alternate 3.5s infinite;
+}
+.blood2{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 3.75s infinite;
+}
+.winter{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 4s infinite;
+}
+.love2{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: xx-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.1s alternate infinite;
+}
+.snow{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 4.5s infinite;
+}
+.silent{
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t1 0.5s alternate 4.75s infinite;
+}
+.love3{
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: xx-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t1 0.1s alternate infinite;
+}
+.sweet{
+    color: rgb(255, 61, 127);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t1 0.5s alternate 5.25s infinite;
+}
+.before{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 5.5s infinite;
+}
+.dwelling{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 5.75s infinite;
+}
+.nomore{
+    color: rgb(255, 113, 171);
+    display: inline;
+    font-size: x-large;
+    font-family: "Kanit";
+    font-weight: 700;
+    font-style: italic;
+    animation: t2 0.5s alternate 6s infinite;
+}
+.header5 {
+    color: rgb(255, 154, 214);
+    font-family: "Kanit";
+    font-weight: 700;
+    animation: t3 2s alternate infinite;
+}
+
+.subheading5 {
+    position: relative;
+    top: 15px;
+    left: 1200px;
+}
+
+.firstpara5 {
+    position: relative;
+    top: 40%;
+    left: 28%;
+}
+
+.secondpara5 {
+    position: relative;
+    top: 60%;
+    left: 48%;
+}
+
+.thirdpara5 {
+    position: relative;
+    top: 80%;
+    left: 28%;
 }
