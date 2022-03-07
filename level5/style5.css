@@ -1,0 +1,439 @@
+
+.header1 {
+    font-size: larger;
+    letter-spacing: 50px;
+    text-transform: uppercase;
+    color: rgb(255, 146, 146);
+    font-family: "Montserrat";
+    font-weight: 700;
+    position: absolute;
+    top: 5px;
+    left: 20px;
+    animation: firstlove 2s alternate infinite ;
+    
+}
+
+@keyframes firstlove {
+    from {left: 20px; color: rgb(255, 146, 146);}
+    to {left: 600px; color: rgb(116, 140, 221);}
+}
+
+.subheading1 {
+    text-align: right;
+    font-family: "Montserrat";
+    font-weight: 300;
+    position: absolute;
+    top: 45px;
+    right: 5px;
+    text-transform: uppercase;
+    font-size: x-small;
+    color: rgb(255, 189, 189);
+}
+.paras1 {
+    letter-spacing: 0;
+    line-height: 0.5;
+    font-size: xx-large;
+    text-transform: capitalize;
+    color: rgb(126, 126, 126);
+}
+.ll1 {
+    position: absolute;
+    top: 115px;
+    left: 390px;
+}
+.ll2 {
+    position: absolute;
+    top: 135px;
+    left: 349px;
+}
+.ll3 {
+    position: absolute;
+    top: 155px;
+    left: 329px;
+}
+.ll4-1 {
+    position: absolute;
+    top: 175px;
+    left: 320px;
+}
+.ll4-2 {
+    position: absolute;
+    top: 175px;
+    left: 505px;
+}
+.ll5-1 {
+    position: absolute;
+    top: 195px;
+    left: 306px;
+}
+.ll5-2 {
+    position: absolute;
+    top: 195px;
+    left: 505px;
+}
+.ll6 {
+    position: absolute;
+    top: 215px;
+    left: 295px;
+}
+.ll7 {
+    position: absolute;
+    top: 235px;
+    left: 150px;
+}
+.ll8 {
+    position: absolute;
+    top: 255px;
+    left: 110px;
+}
+.ll9 {
+    position: absolute;
+    top: 275px;
+    left: 100px;
+}
+.ll10 {
+    position: absolute;
+    top: 295px;
+    left: 85px;
+}
+.ll11 {
+    position: absolute;
+    top: 315px;
+    left: 65px;
+}
+.ll12 {
+    position: absolute;
+    top: 335px;
+    left: 55px;
+}
+.ll13 {
+    position: absolute;
+    top: 355px;
+    left: 55px;
+}
+.ll14 {
+    position: absolute;
+    top: 375px;
+    left: 55px;
+}
+.ll15 {
+    position: absolute;
+    top: 395px;
+    left: 55px;
+}
+.ll16 {
+    position: absolute;
+    top: 415px;
+    left: 60px;
+}
+.ll17 {
+    position: absolute;
+    top: 435px;
+    left: 68px;
+}
+.ll18 {
+    position: absolute;
+    top: 455px;
+    left: 80px;
+}
+.ll19 {
+    position: absolute;
+    top: 475px;
+    left: 100px;
+}
+.ll20-1 {
+    position: absolute;
+    top: 495px;
+    left: 125px;
+}
+.ll20-2 {
+    position: absolute;
+    top: 495px;
+    left: 470px;
+}
+.ll21-1 {
+    position: absolute;
+    top: 515px;
+    left: 125px;
+}
+.ll21-2 {
+    position: absolute;
+    top: 515px;
+    left: 475px;
+}
+.ll22-1 {
+    position: absolute;
+    top: 535px;
+    left: 120px;
+}
+.ll22-2 {
+    position: absolute;
+    top: 535px;
+    left: 385px;
+}
+.ll23-1 {
+    position: absolute;
+    top: 555px;
+    left: 100px;
+}
+.ll23-2 {
+    position: absolute;
+    top: 555px;
+    left: 390px;
+}
+.ll24 {
+    position: absolute;
+    top: 575px;
+    left: 80px;
+}
+.ll25 {
+    position: absolute;
+    top: 595px;
+    left: 70px;
+}
+.ll26-1 {
+    position: absolute;
+    top: 615px;
+    left: 63px;
+}
+.ll26-2 {
+    position: absolute;
+    top: 615px;
+    left: 370px;
+}
+.ll27-1 {
+    position: absolute;
+    top: 635px;
+    left: 61px;
+}
+.ll27-2 {
+    position: absolute;
+    top: 635px;
+    left: 370px;
+}
+.ll28 {
+    position: absolute;
+    top: 655px;
+    left: 55px;
+}
+.ll29 {
+    position: absolute;
+    top: 675px;
+    left: 59px;
+}
+.ll30 {
+    position: absolute;
+    top: 695px;
+    left: 63px;
+}
+.ll31 {
+    position: absolute;
+    top: 715px;
+    left: 72px;
+}
+.ll32 {
+    position: absolute;
+    top: 735px;
+    left: 80px;
+}
+.ll33 {
+    position: absolute;
+    top: 755px;
+    left: 90px;
+}
+.ll34 {
+    position: absolute;
+    top: 775px;
+    left: 105px;
+}
+.ll35 {
+    position: absolute;
+    top: 795px;
+    left: 120px;
+}
+.ll36 {
+    position: absolute;
+    top: 815px;
+    left: 130px;
+}
+.ll37 {
+    position: absolute;
+    top: 835px;
+    left: 140px;
+}
+.ll38-1 {
+    position: absolute;
+    top: 855px;
+    left: 155px;
+}
+.ll38-2 {
+    position: absolute;
+    top: 855px;
+    left: 365px;
+}
+.ll39-1 {
+    position: absolute;
+    top: 875px;
+    left: 159px;
+}
+.ll39-2 {
+    position: absolute;
+    top: 875px;
+    left: 365px;
+}
+.ll40-1 {
+    position: absolute;
+    top: 895px;
+    left: 165px;
+}
+.ll40-2 {
+    position: absolute;
+    top: 895px;
+    left: 292px;
+}
+.ll41 {
+    position: absolute;
+    top: 915px;
+    left: 292px;
+}
+.ll42 {
+    position: absolute;
+    top: 935px;
+    left: 155px;
+}
+.ll43 {
+    position: absolute;
+    top: 955px;
+    left: 150px;
+}
+.lovee1 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 180px;
+    left: 380px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+
+@keyframes lovee1 {
+    from {color: rgb(255, 146, 146);}
+    to {color: rgb(116, 140, 221)} 
+}
+
+.lovee2 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 500px;
+    left: 295px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+.lovee3 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 540px;
+    left: 260px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+.lovee4 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 620px;
+    left: 245px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+.lovee5 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 860px;
+    left: 240px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+.lovee6 {
+    display: inline;
+    font-size: 60px;
+    position: absolute;
+    top: 900px;
+    left: 163px;
+    color: rgb(255, 146, 146);
+    animation: lovee1 0.5s alternate infinite ;
+}
+body {
+    background-color: rgba(253, 233, 176, 0.432);
+}
+.header2 {
+    color: rgb(255, 201, 241);
+    padding-left: 40%;
+}
+
+.subheading2 {
+    color: rgb(114, 114, 114)
+}
+
+.firstpara2 {
+    padding: 20px;
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    width: fit-content;
+    border: 5px dashed rgb(151, 255, 214);
+    background-color:  rgb(198, 255, 232);
+    animation: firstpara2 3s backwards infinite;
+}
+
+@keyframes firstpara2 {
+    0%   {border-color: rgb(151, 255, 214); background-color: rgb(198, 255, 232); left: 30px; top: 100px;}
+    25%  {border-color: rgb(188, 198, 255); background-color: rgb(214, 221, 255); left: 600px; top: 100px;}
+    50%  {border-color: rgb(205, 162, 253); background-color: rgb(226, 201, 255); left: 600px; top: 300px;}
+    75%  {border-color: rgb(255, 146, 146); background-color: rgb(255, 195, 195); left: 30px; top: 300px;}
+    100% {border-color: rgb(151, 255, 214); background-color: rgb(198, 255, 232); left: 30px; top: 100px;}
+}
+
+.secondpara2 {
+    padding: 35px;
+    position: absolute;
+    top: 85px;
+    left: 400px;
+    width: min-content;
+    border: 10px double rgb(188, 198, 255);
+    background-color: rgb(214, 221, 255);
+    animation: secondpara2 2s alternate infinite;
+}
+
+@keyframes secondpara2 {
+    from {left: 600px; top: 85px;}
+    to {left: 1200px; top: 85px;}
+}
+
+.thirdpara2 {
+    padding: 15px 60px;
+    position: relative;
+    top: 80px;
+    left: 200px;
+    width: fit-content;
+    border: 7px dotted rgb(205, 162, 253);
+    background-color: rgb(226, 201, 255);
+    animation: thirdpara2 5s forwards infinite;
+}
+
+@keyframes thirdpara2 {
+    0%   {left: 100px; top: 200px;}
+    25%  {left: 500px; top: 200px;}
+    50%  {left: 500px; top: 400px;}
+    75%  {left: 100px; top: 400px;}
+    100% {left: 100px; top: 200px;}
+}
+
+.love{
+    color: rgb(255, 146, 146);;
+    display: inline;
+    padding-left: 10px;
+}

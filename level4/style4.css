@@ -606,18 +606,18 @@
     letter-spacing: 50px;
     text-transform: uppercase;
     color: rgb(255, 146, 146);
-    /*font-family: "Montserrat";
-    font-weight: 700;*/
+    font-family: "Montserrat";
+    font-weight: 700;
     position: absolute;
     top: 5px;
     left: 20px;
 }
 .subheading5 {
     text-align: right;
-    /*font-family: "Montserrat";
-    font-weight: 300;*/
+    font-family: "Montserrat";
+    font-weight: 300;
     position: absolute;
-    top: 40px;
+    top: 45px;
     right: 5px;
     text-transform: uppercase;
     font-size: x-small;
@@ -629,8 +629,6 @@
     font-size: xx-large;
     text-transform: capitalize;
     color: rgb(126, 126, 126);
-    /*font-family: "Montserrat";
-    font-weight: 300;*/
 }
 .ll1 {
     position: absolute;
@@ -787,15 +785,25 @@
     top: 595px;
     left: 70px;
 }
-.ll26 {
+.ll26-1 {
     position: absolute;
     top: 615px;
     left: 63px;
 }
-.ll27 {
+.ll26-2 {
+    position: absolute;
+    top: 615px;
+    left: 370px;
+}
+.ll27-1 {
     position: absolute;
     top: 635px;
     left: 61px;
+}
+.ll27-2 {
+    position: absolute;
+    top: 635px;
+    left: 370px;
 }
 .ll28 {
     position: absolute;
@@ -847,25 +855,50 @@
     top: 835px;
     left: 140px;
 }
-.ll38 {
+.ll38-1 {
     position: absolute;
     top: 855px;
     left: 155px;
 }
-.ll39 {
+.ll38-2 {
+    position: absolute;
+    top: 855px;
+    left: 365px;
+}
+.ll39-1 {
     position: absolute;
     top: 875px;
-    left: 160px;
+    left: 159px;
 }
-.ll40 {
+.ll39-2 {
+    position: absolute;
+    top: 875px;
+    left: 365px;
+}
+.ll40-1 {
     position: absolute;
     top: 895px;
     left: 165px;
 }
+.ll40-2 {
+    position: absolute;
+    top: 895px;
+    left: 292px;
+}
 .ll41 {
     position: absolute;
     top: 915px;
-    left: 175px;
+    left: 292px;
+}
+.ll42 {
+    position: absolute;
+    top: 935px;
+    left: 155px;
+}
+.ll43 {
+    position: absolute;
+    top: 955px;
+    left: 150px;
 }
 .lovee1 {
     display: inline;
@@ -873,6 +906,7 @@
     position: absolute;
     top: 180px;
     left: 380px;
+    color: rgb(255, 146, 146);
 }
 .lovee2 {
     display: inline;
@@ -880,6 +914,7 @@
     position: absolute;
     top: 500px;
     left: 295px;
+    color: rgb(255, 146, 146);
 }
 .lovee3 {
     display: inline;
@@ -887,20 +922,29 @@
     position: absolute;
     top: 540px;
     left: 260px;
+    color: rgb(255, 146, 146);
 }
 .lovee4 {
     display: inline;
     font-size: 60px;
+    position: absolute;
+    top: 620px;
+    left: 245px;
+    color: rgb(255, 146, 146);
 }
 .lovee5 {
     display: inline;
     font-size: 60px;
+    position: absolute;
+    top: 860px;
+    left: 240px;
+    color: rgb(255, 146, 146);
 }
 .lovee6 {
     display: inline;
     font-size: 60px;
-}
-.lovee7 {
-    display: inline;
-    font-size: 60px;
+    position: absolute;
+    top: 900px;
+    left: 163px;
+    color: rgb(255, 146, 146);
 }
